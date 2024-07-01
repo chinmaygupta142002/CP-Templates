@@ -1,2 +1,2 @@
 # CP-Templates
-Templates for Segment Tree and DSU
+Templates for Segment Tree, DSU and Multiset
